@@ -26,6 +26,30 @@ El informe contiene cinco páginas:
 4. **Análisis Geográfico:** zonas de origen y destino, mapas, rankings y concentración de viajes e ingresos.
 5. **Economía y Rentabilidad:** tarifas, propinas, cargos asociados, costos estimados, ingreso por milla y margen estimado.
 
+## Capturas reales del dashboard
+
+Las imágenes siguientes corresponden a las cinco páginas del informe ejecutado en Power BI con el periodo completo 2015-2017.
+
+### 01 · Resumen Ejecutivo
+
+![Resumen ejecutivo de Yellow Taxi](assets/screenshots/01-resumen-ejecutivo.jpg)
+
+### 02 · Demanda del Servicio
+
+![Demanda del servicio de Yellow Taxi](assets/screenshots/02-demanda-servicio.jpg)
+
+### 03 · Tiempos y Desplazamiento
+
+![Tiempos y patrones de desplazamiento](assets/screenshots/03-tiempos-desplazamiento.jpg)
+
+### 04 · Análisis Geográfico
+
+![Análisis geográfico de actividad e ingresos](assets/screenshots/04-analisis-geografico.jpg)
+
+### 05 · Economía y Rentabilidad
+
+![Economía, tarifas y rentabilidad estimada](assets/screenshots/05-economia-rentabilidad.jpg)
+
 El archivo listo para abrir está en [`dashboard/NYC_Taxi_Analytics.pbix`](dashboard/NYC_Taxi_Analytics.pbix).
 
 ## Indicadores principales
@@ -60,7 +84,7 @@ El proyecto utiliza una arquitectura analítica por capas:
 
 ```text
 nyc-taxi-power-bi-analytics/
-├── assets/                 # Portada y diagrama del flujo de datos
+├── assets/                 # Portada, diagrama y capturas reales del dashboard
 ├── dashboard/              # Informe Power BI en formato PBIX
 ├── data/                   # Tabla pública de zonas de taxi
 ├── docs/                   # Documentación del modelo, medidas y fuentes
