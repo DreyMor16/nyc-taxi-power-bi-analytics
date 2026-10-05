@@ -1,0 +1,12 @@
+# Archivos locales y temporales
+.ipynb_checkpoints/
+*.tmp
+*.temp
+*.bak
+*.log
+~$*
+
+# Datos masivos descargados localmente
+*.parquet
+*.csv.gz
+data/raw/

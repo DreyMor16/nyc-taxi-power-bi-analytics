@@ -1,0 +1,16 @@
+{
+  "name": "NYC Taxi Profesional",
+  "dataColors": [
+    "#2878B5",
+    "#F4B400",
+    "#2E7D32",
+    "#C62828",
+    "#6B5CA5",
+    "#2A9D8F",
+    "#E07A5F",
+    "#7A8B99"
+  ],
+  "background": "#F4F6F8",
+  "foreground": "#243B53",
+  "tableAccent": "#F4B400"
+}
